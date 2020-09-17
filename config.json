@@ -1,0 +1,28 @@
+{
+    "nome": "Exercícios",
+    "academico":{
+        "curso": "Matemática",
+        "cursoIcone": "layout/icones/matematica_tit.svg",
+        "disciplina":"Material Estruturado de Matemática",
+        "responsavel": "Professor"
+    },
+    "topicos": [     
+        
+        {
+            "nome": "Exercícios resolvidos (Nível 1)",
+            "local": "topicos/teste_exercicios_top2.html",
+            "audio": "audios/Abstract - I Do This (ft. Roze) Prod By Drumma Battalion.mp3",
+            "default": true
+        }
+        
+    ],
+    "pdf": "pdf/impresso.pdf",
+    "audio": "audios/Abstract - Scars (ft. RoZe) (Prod. Drumma Battalion).mp3",
+    "tema":{
+      "primario": "purple-300",
+      "contraste": "orange"
+    },
+    "imported_styles":[
+        "custom.css"
+    ]
+}
